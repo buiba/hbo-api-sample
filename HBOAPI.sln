@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HBOAPI.Standard", "HBOAPI.Standard/HBOAPI.Standard.csproj", "{14f98e53-fab0-414a-989c-274a1f43cbef}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HBOAPI.Tests", "HBOAPI.Tests/HBOAPI.Tests.csproj", "{f04a15b0-a8cd-424b-96d9-3ee4f6c59a4c}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {14f98e53-fab0-414a-989c-274a1f43cbef}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {14f98e53-fab0-414a-989c-274a1f43cbef}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {14f98e53-fab0-414a-989c-274a1f43cbef}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {14f98e53-fab0-414a-989c-274a1f43cbef}.Release|Any CPU.Build.0 = Release|Any CPU
+        {f04a15b0-a8cd-424b-96d9-3ee4f6c59a4c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {f04a15b0-a8cd-424b-96d9-3ee4f6c59a4c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {f04a15b0-a8cd-424b-96d9-3ee4f6c59a4c}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {f04a15b0-a8cd-424b-96d9-3ee4f6c59a4c}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal
